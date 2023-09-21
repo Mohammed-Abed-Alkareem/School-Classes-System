@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688496878 source:d:\university\2nd year\second semester (2023)\data structures and algorithms -comp2421-\projects\project3\p3_1210708_mohammedabedalkareem_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
